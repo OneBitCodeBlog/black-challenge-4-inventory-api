@@ -73,6 +73,8 @@ Os colaboradores desse projeto são os Instrutores da OneBitCode: **Lucas Queiro
 
 ## 📑 Referências
 
+Link do arquivo para o postman: https://drive.google.com/drive/folders/1-Zj1iqAw2_xRX2NTHe0A_hk0Z40qa9Bk?usp=sharing
+
 Visite o site da OneBitCode para conhecer os cursos e projetos
 https://onebitcode.com/lp/
 
